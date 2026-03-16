@@ -106,7 +106,7 @@ First, clone the repository and install the required dependencies.
 
 ```bash
 # Clone the repository to your local machine
-git clone https://github.com/jaypatel35/Data-Science-Practicum---2
+git clone https://github.com/jaypatel35/NutriGen-Recipe_Generative_Framework
 
 # It is highly recommended to use a virtual environment
 python -m venv venv
